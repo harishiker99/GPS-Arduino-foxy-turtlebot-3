@@ -5,5 +5,6 @@ Components:
 - Neo-6M GPS module
 - Breadboard
 - LCD Screen
+- Jumper wires
 
 ![GPS Hardware implementation](https://github.com/harishiker99/GPS-Arduino-foxy-turtlebot-3/blob/main/Hardware%20module.jpg?raw=true)
