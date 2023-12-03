@@ -74,7 +74,7 @@ void loop() {
 
       if (gps.date.isValid()) {
         Serial.print("Date       : ");
-        lcd.setCursor(0, 3); // forth line
+        lcd.setCursor(0, 3); // fourth line
         lcd.print("Date     :");
         if(gps.date.day() < 10)      Serial.print("0");
         Serial.print(gps.date.day());
